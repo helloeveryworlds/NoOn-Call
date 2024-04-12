@@ -6,4 +6,12 @@ Reduce the on-call. When your boss call you when you are sleep or your team memb
 
 ## Function
 
--[ ] 
+- Design a DB for unstructure Data
+- Build the Local DB
+- Time Stamp Set
+- App connect and control the response
+- voice system to simulate owner's voice
+- GPT analysis
+
+## Contributors
+Fuhao Ruan
