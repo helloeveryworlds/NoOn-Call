@@ -6,4 +6,4 @@ Reduce the on-call. When your boss call you when you are sleep or your team memb
 
 ## Function
 
-- [] 
+-[ ] 
