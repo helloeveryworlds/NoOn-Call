@@ -19,6 +19,11 @@ Reduce the on-call. When your boss call you when you are sleep or your team memb
 ### Tools
 A tool for GPT to access the neo4j and it can help it to access the audio and make sure all the input is controlled.
 
+Consider LlamaIndex, a tool that can help you to access the neo4j and make sure the GPT can access the neo4j and get the information from the neo4j.
+
+neo4J and embedding:
+
+
 Here is the flow:
 
 colleges call -> input(audio / txt / image) -> toolsA (handle it and parse it into xml format) -> GPT -> toolsB (do the search in neo4j and use the results generate the response and new code to show the graph information) -> call predefined AGENT -> generate the response to others.
